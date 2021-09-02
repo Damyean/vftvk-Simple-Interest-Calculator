@@ -26,5 +26,4 @@ function handleChange(){
     
     var r = document.getElementById("rate").value;
     document.getElementById("change").innerHTML = r+"%";
-
 }
